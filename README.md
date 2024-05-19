@@ -15,13 +15,6 @@ cd simple-chat-app</code></pre>
             <p>By default, the server will run on port <code>3001</code>.</p>
         </li>
     </ol>
-    <h2>Main File: <code>index.js</code></h2>
-    <pre><code>/* Your main file code here */</code></pre>
-    <h2>Utilities</h2>
-    <h3>Messages: <code>utils/messages.js</code></h3>
-    <pre><code>/* Your messages utility code here */</code></pre>
-    <h3>Users: <code>utils/users.js</code></h3>
-    <pre><code>/* Your users utility code here */</code></pre>
     <h2>Routes</h2>
     <h3>Chatroom Events</h3>
     <ul>
